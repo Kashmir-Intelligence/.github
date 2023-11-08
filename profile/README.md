@@ -13,7 +13,7 @@ The barriers before us are formidable, but not insurmountable. By crafting a sta
 3. **Compact AI**: Compression of deep learning models for on-device AI execution, bypassing cloud constraints
 4. **Continuous Learning**: Real-time domain adaptation to evolving conditions
 5. **Generative AI**: Digital twin simulations for robust scenario planning and Representation Learning
-6. **Reinforcement Learning**: Decision-making within intricate environments
+6. **Reinforcement Learning**: for continuous feedback and optimisation
 
 By leveraging this stack, we can navigate the challenges of data privacy, legacy systems, and continuous adaptation. This is the key to unlocking a new era of industrial AI that will be world-altering in its impact and performance.
 
