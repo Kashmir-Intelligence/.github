@@ -2,16 +2,19 @@
 
 ## Our Mission 🚀
 
-## Our research 🔥
+AI has permeated our lives in ways we couldn't even imagine a decade ago. From large language models (LLMs), image generation and personalised recommendations, AI's accomplishments in the tech sector are undeniable. AI innovation is dominated by a small group of tech companies, where the landscape comprises of models produced for mostly general internet use, forming an "AI Oligopoly". This is reflected in models uploaded and used at the world’s most popular model hubs such as HuggingFace and PyTorch we found 95% of models are for general internet use (natural images and natural text), 3% are for social media networking graphs, and the remaining 2% are for time series use. Industrial sectors, however, lack representation in these hubs, with virtually no models dedicated to their specific needs, hindered by challenges like data privacy and outdated infrastructure.
+
+**We want to bridge this gap, by being the new hub for delivery narrow, adaptable and scalable AI for industry**
+
+## Our research Focus 🔥
 The barriers before us are formidable, but not insurmountable. By crafting a stack of AI tools tailored to meet the specific needs of these industries, I believe we can break down these barriers:
-1. **Narrow AI**: Hyper-specialised models purpose-built for industrial applications Swarm AI: Federated Learning to share insights across models deployed without compromising data
-2. **Compact AI**: On-device AI execution, bypassing cloud constraints
-3. **Continuous Learning**: Real-time adaptation to evolving conditions
-4. **Generative AI**: Digital twin simulations for robust scenario planning and Representation Learning
-5. **Reinforcement Learning**: Decision-making within intricate environments
+1. **Federated Learning**: To deploy models on a decentralised network of IoT sensors and share insights across models without compromising privacy
+2. **Meta Learning**: Hyper-specialised models purpose-built for industrial applications
+3. **Compact AI**: Compression of deep learning models for on-device AI execution, bypassing cloud constraints
+4. **Continuous Learning**: Real-time domain adaptation to evolving conditions
+5. **Generative AI**: Digital twin simulations for robust scenario planning and Representation Learning
+6. **Reinforcement Learning**: Decision-making within intricate environments
 
 By leveraging this stack, we can navigate the challenges of data privacy, legacy systems, and continuous adaptation. This is the key to unlocking a new era of industrial AI that will be world-altering in its impact and performance.
 
 ## Who are we? 🤘
-
-## Contact Us 🤙
