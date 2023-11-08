@@ -1,5 +1,11 @@
 # Welcome to Kashmir Intelligence 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/images/Horizontal-Black-Invert.png">
+  <source media="(prefers-color-scheme: light)" srcset="profile/images/Horizontal-Red.png">
+  <img alt="Adaptive image">
+</picture>
+
 ## Our Mission 🚀
 
 AI has permeated our lives in ways we couldn't even imagine a decade ago. From large language models (LLMs), image generation and personalised recommendations, AI's accomplishments in the tech sector are undeniable. AI innovation is dominated by a small group of tech companies, where the landscape comprises of models produced for mostly general internet use, forming an "AI Oligopoly". This is reflected in models uploaded and used at the world’s most popular model hubs such as HuggingFace and PyTorch we found 95% of models are for general internet use (natural images and natural text), 3% are for social media networking graphs, and the remaining 2% are for time series use. Industrial sectors, however, lack representation in these hubs, with virtually no models dedicated to their specific needs, hindered by challenges like data privacy and outdated infrastructure.
