@@ -18,3 +18,11 @@ The barriers before us are formidable, but not insurmountable. By crafting a sta
 By leveraging this stack, we can navigate the challenges of data privacy, legacy systems, and continuous adaptation. This is the key to unlocking a new era of industrial AI that will be world-altering in its impact and performance.
 
 ## Who are we? 🤘
+
+We are researchers and engineers from academia and the energy sector, united by our goal to advance narrow AI for industrial usecase and our day-to-day lives through innovative research and practical solutions. 
+
+**Interested in what we do? Get in touch 🤙**
+Let us come together, with our shared passion for AI and its potential, to channel our energies into creating AI solutions that can revolutionise core industries that are crucial to the lives of billions. This is our opportunity to leave an indelible mark on the world and to shape a future where AI's potential is fully realised, and its benefits extend to all sectors of our economy.
+
+Let's make history.
+Email: sam@kashmirintelligence.com
